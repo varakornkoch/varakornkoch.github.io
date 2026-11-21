@@ -1,0 +1,1 @@
+import{g as a}from"./index.BmWgXYHb.js";import{i,b as t,c as e,r,$ as o,d as s}from"./shared.Bj89avV1.js";import"./ScrollTrigger.QUtb4GpP.js";i();t();e();r||a.from(o(".faq-item"),{y:24,opacity:0,duration:.7,stagger:.07,delay:.5,ease:"power3.out"});s();
